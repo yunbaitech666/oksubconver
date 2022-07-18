@@ -1,5 +1,5 @@
 services:
-  oktetov2ray:
+  oksubconver:
     build: .
     shm_size: 2.6gb
     ports:
