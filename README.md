@@ -2,6 +2,8 @@
 
 在oketeto部署clash订阅后台转换
 
+# 前后端搭建请见博客  https://blog.imkcp.xyz/subconverter/
+
 ## 开始部署
 首先fork本项目
 用github登录okteto  https://cloud.okteto.com   
